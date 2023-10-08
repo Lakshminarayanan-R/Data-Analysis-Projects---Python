@@ -1,0 +1,1 @@
+This folder contains the training data, ipynb file and the submission files of the competition
